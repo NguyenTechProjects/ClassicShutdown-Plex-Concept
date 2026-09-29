@@ -4,6 +4,10 @@ ClassicShutdown-Plex is a fork of the original Classicshutdown project aim to...
 # Why this here?
 Because my own personal Windows mod - Project DemoPlex is using the same resource, I would like to post so you guys can edit, try it out without downloading gb(s) full iso image!
 
+## NOTE!!! PLEASE READ(For those who wants to compile this app manually)
+- You cannot compile this app since I'm too early to GitHub so changing source is hard for me, I forked the original repo by using resource hacker not visual studio. I'm sorry for your incomvinient
+- Only x64 support since I only got an intel laptop, I've never using ARM before and x86 in future release
+
 ## Features
 - Styles ranging from Windows 95 to Windows Longhorn(except windows xp which not supports)
 - Select which options to display
