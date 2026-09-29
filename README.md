@@ -18,6 +18,6 @@ For API documentation, see the [wiki](https://github.com/aubymori/ClassicShutdow
 
 ## Screenshots
 
-| ![Windows 98 shutdown](images/shutdown-win98.png) | ![Windows 2000 shutdown](images/shutdown-win2k.png) | ![Windows XP shutdown](images/shutdown-winxp.png) |
+| ![Windows 98 shutdown](images/shutdown-win98.png) | ![Windows 2000 shutdown](images/shutdown-win2k.png) | ![Windows LH Concept shutdown](images/Shutdown-LH.png) |
 |-|-|-|
-| ![Windows 2000 log off](images/logoff-win2k.png) | ![Windows XP log off](images/logoff-winxp.png) | ![Disconnect](images/disconnect.png) |
+| ![Windows 2000 log off](images/logoff-win2k.png) | ![Windows LH Concept log off](images/Logoff-LH.png) | ![Disconnect](images/disconnect.png) |
