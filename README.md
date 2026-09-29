@@ -1,12 +1,15 @@
-# ClassicShutdown
-ClassicShutdown is a recreation of various shutdown/log off dialogs from older Windows versions.
+# Classic Shutdown DemoPlex
+ClassicShutdown-Plex is a fork of the original Classicshutdown project aim to... Add the LH concept Style
+
+# Why this here?
+Because my own personal Windows mod - Project DemoPlex is using the same resource, I would like to post so you guys can edit, try it out without downloading gb(s) full iso image!
 
 ## Features
-- Styles ranging from Windows 95 to XP
+- Styles ranging from Windows 95 to Windows Longhorn(except windows xp which not supports)
 - Select which options to display
 - Custom banner images
 - MUI localization
-- Built as a DLL for use in external applications
+- Longhorn Concept Plex style instead of the boring XP shutdown
 
 ## Usage
 To display the logoff dialog, pass `/logoff` in the command line arguments. To display the disconnect
